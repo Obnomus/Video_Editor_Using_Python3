@@ -1,5 +1,5 @@
 # Video_Editor_using-Python3
-A simple python tool to edit videos
+A simple tool written in Python3 to edit videos.
 ## Python Programming
 I use different libraries to make this program.
 - [ ] MoviePy
